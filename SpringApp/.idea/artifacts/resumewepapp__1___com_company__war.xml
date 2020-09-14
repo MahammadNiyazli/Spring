@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="resumewepapp (1) (com.company):war">
+    <output-path>$PROJECT_DIR$/resumewepapp/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>resumewepapp (1) (com.company)</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="resumewepapp-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="resumewepapp (1) (com.company):war exploded" />
+    </root>
+  </artifact>
+</component>
